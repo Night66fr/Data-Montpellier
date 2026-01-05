@@ -62,7 +62,7 @@ for i in range(nb_mesures):
             }
         })
 
-    if os.path.exists(nom_fichier): #demander à l'ia pour pouvoir enregistrer et que je puisse le voir directement 
+    if os.path.exists(nom_fichier): #demander à l'IA pour pouvoir enregistrer et que je puisse le voir directement 
         with open(nom_fichier, "r", encoding="utf8") as f:
             try:
                     contenu = json.load(f)

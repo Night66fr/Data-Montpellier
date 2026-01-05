@@ -89968,5 +89968,4115 @@
             "emplacement_disponible": 7981,
             "occupation": "33.44%"
         }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 80,
+            "emplacement_disponible": 159,
+            "occupation": "33.47%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 294,
+            "emplacement_disponible": 370,
+            "occupation": "44.28%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 456,
+            "emplacement_disponible": 24,
+            "occupation": "95.0%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 100,
+            "emplacement_disponible": 491,
+            "occupation": "16.92%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 67,
+            "emplacement_disponible": 553,
+            "occupation": "10.81%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 227,
+            "emplacement_disponible": 225,
+            "occupation": "50.22%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 163,
+            "emplacement_disponible": 493,
+            "occupation": "24.85%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 144,
+            "emplacement_disponible": 1056,
+            "occupation": "12.0%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 9,
+            "emplacement_disponible": 391,
+            "occupation": "2.25%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 54,
+            "emplacement_disponible": 274,
+            "occupation": "16.46%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 131,
+            "emplacement_disponible": 154,
+            "occupation": "45.96%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 32,
+            "emplacement_disponible": 347,
+            "occupation": "8.44%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 47,
+            "emplacement_disponible": 238,
+            "occupation": "16.49%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 97,
+            "emplacement_disponible": 142,
+            "occupation": "40.59%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 90,
+            "emplacement_disponible": 525,
+            "occupation": "14.63%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 41,
+            "emplacement_disponible": 23,
+            "occupation": "64.06%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 83,
+            "emplacement_disponible": 177,
+            "occupation": "31.92%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 326,
+            "emplacement_disponible": 114,
+            "occupation": "74.09%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "04/01/2026 17:00:20",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 4267,
+            "emplacement_disponible": 7724,
+            "occupation": "35.59%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 82,
+            "emplacement_disponible": 157,
+            "occupation": "34.31%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 291,
+            "emplacement_disponible": 373,
+            "occupation": "43.83%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 429,
+            "emplacement_disponible": 51,
+            "occupation": "89.38%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 98,
+            "emplacement_disponible": 493,
+            "occupation": "16.58%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 67,
+            "emplacement_disponible": 553,
+            "occupation": "10.81%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 233,
+            "emplacement_disponible": 219,
+            "occupation": "51.55%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 172,
+            "emplacement_disponible": 484,
+            "occupation": "26.22%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 140,
+            "emplacement_disponible": 1060,
+            "occupation": "11.67%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 5,
+            "emplacement_disponible": 395,
+            "occupation": "1.25%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 52,
+            "emplacement_disponible": 276,
+            "occupation": "15.85%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 135,
+            "emplacement_disponible": 150,
+            "occupation": "47.37%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 27,
+            "emplacement_disponible": 352,
+            "occupation": "7.12%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 46,
+            "emplacement_disponible": 239,
+            "occupation": "16.14%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 94,
+            "emplacement_disponible": 145,
+            "occupation": "39.33%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 534,
+            "occupation": "13.17%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 48,
+            "emplacement_disponible": 16,
+            "occupation": "75.0%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 83,
+            "emplacement_disponible": 177,
+            "occupation": "31.92%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 325,
+            "emplacement_disponible": 115,
+            "occupation": "73.86%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "04/01/2026 18:00:09",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 4234,
+            "emplacement_disponible": 7757,
+            "occupation": "35.31%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 84,
+            "emplacement_disponible": 155,
+            "occupation": "35.15%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 291,
+            "emplacement_disponible": 373,
+            "occupation": "43.83%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 407,
+            "emplacement_disponible": 73,
+            "occupation": "84.79%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 91,
+            "emplacement_disponible": 500,
+            "occupation": "15.4%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 77,
+            "emplacement_disponible": 543,
+            "occupation": "12.42%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 242,
+            "emplacement_disponible": 210,
+            "occupation": "53.54%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 167,
+            "emplacement_disponible": 489,
+            "occupation": "25.46%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 116,
+            "emplacement_disponible": 1084,
+            "occupation": "9.67%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 58,
+            "emplacement_disponible": 270,
+            "occupation": "17.68%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 128,
+            "emplacement_disponible": 157,
+            "occupation": "44.91%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 21,
+            "emplacement_disponible": 358,
+            "occupation": "5.54%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 241,
+            "occupation": "15.44%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 89,
+            "emplacement_disponible": 150,
+            "occupation": "37.24%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 79,
+            "emplacement_disponible": 536,
+            "occupation": "12.85%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 52,
+            "emplacement_disponible": 12,
+            "occupation": "81.25%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 85,
+            "emplacement_disponible": 175,
+            "occupation": "32.69%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 330,
+            "emplacement_disponible": 110,
+            "occupation": "75.0%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "04/01/2026 19:00:53",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 4190,
+            "emplacement_disponible": 7801,
+            "occupation": "34.94%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 158,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 293,
+            "emplacement_disponible": 371,
+            "occupation": "44.13%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 176,
+            "emplacement_disponible": 304,
+            "occupation": "36.67%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 92,
+            "emplacement_disponible": 499,
+            "occupation": "15.57%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 87,
+            "emplacement_disponible": 533,
+            "occupation": "14.03%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 252,
+            "emplacement_disponible": 200,
+            "occupation": "55.75%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 173,
+            "emplacement_disponible": 483,
+            "occupation": "26.37%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 103,
+            "emplacement_disponible": 1097,
+            "occupation": "8.58%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 2,
+            "emplacement_disponible": 398,
+            "occupation": "0.5%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 45,
+            "emplacement_disponible": 283,
+            "occupation": "13.72%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 111,
+            "emplacement_disponible": 174,
+            "occupation": "38.95%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 17,
+            "emplacement_disponible": 362,
+            "occupation": "4.49%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 241,
+            "occupation": "15.44%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 158,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 60,
+            "emplacement_disponible": 555,
+            "occupation": "9.76%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 87,
+            "emplacement_disponible": 173,
+            "occupation": "33.46%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 337,
+            "emplacement_disponible": 103,
+            "occupation": "76.59%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "04/01/2026 20:00:16",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3911,
+            "emplacement_disponible": 8080,
+            "occupation": "32.62%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 82,
+            "emplacement_disponible": 157,
+            "occupation": "34.31%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 282,
+            "emplacement_disponible": 382,
+            "occupation": "42.47%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 147,
+            "emplacement_disponible": 333,
+            "occupation": "30.63%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 91,
+            "emplacement_disponible": 500,
+            "occupation": "15.4%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 91,
+            "emplacement_disponible": 529,
+            "occupation": "14.68%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 259,
+            "emplacement_disponible": 193,
+            "occupation": "57.3%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 145,
+            "emplacement_disponible": 511,
+            "occupation": "22.1%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 95,
+            "emplacement_disponible": 1105,
+            "occupation": "7.92%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 4,
+            "emplacement_disponible": 396,
+            "occupation": "1.0%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 41,
+            "emplacement_disponible": 287,
+            "occupation": "12.5%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 111,
+            "emplacement_disponible": 174,
+            "occupation": "38.95%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 16,
+            "emplacement_disponible": 363,
+            "occupation": "4.22%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 158,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 55,
+            "emplacement_disponible": 560,
+            "occupation": "8.94%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 89,
+            "emplacement_disponible": 171,
+            "occupation": "34.23%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 340,
+            "emplacement_disponible": 100,
+            "occupation": "77.27%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "04/01/2026 21:00:11",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3842,
+            "emplacement_disponible": 8149,
+            "occupation": "32.04%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 85,
+            "emplacement_disponible": 154,
+            "occupation": "35.56%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 261,
+            "emplacement_disponible": 403,
+            "occupation": "39.31%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 136,
+            "emplacement_disponible": 344,
+            "occupation": "28.33%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 91,
+            "emplacement_disponible": 500,
+            "occupation": "15.4%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 77,
+            "emplacement_disponible": 543,
+            "occupation": "12.42%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 259,
+            "emplacement_disponible": 193,
+            "occupation": "57.3%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 127,
+            "emplacement_disponible": 529,
+            "occupation": "19.36%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 76,
+            "emplacement_disponible": 1124,
+            "occupation": "6.33%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 37,
+            "emplacement_disponible": 291,
+            "occupation": "11.28%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 106,
+            "emplacement_disponible": 179,
+            "occupation": "37.19%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 16,
+            "emplacement_disponible": 363,
+            "occupation": "4.22%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 158,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 54,
+            "emplacement_disponible": 561,
+            "occupation": "8.78%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 89,
+            "emplacement_disponible": 171,
+            "occupation": "34.23%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 329,
+            "emplacement_disponible": 111,
+            "occupation": "74.77%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "04/01/2026 22:00:13",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3740,
+            "emplacement_disponible": 8251,
+            "occupation": "31.19%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 87,
+            "emplacement_disponible": 152,
+            "occupation": "36.4%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 233,
+            "emplacement_disponible": 431,
+            "occupation": "35.09%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 130,
+            "emplacement_disponible": 350,
+            "occupation": "27.08%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 91,
+            "emplacement_disponible": 500,
+            "occupation": "15.4%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 54,
+            "emplacement_disponible": 566,
+            "occupation": "8.71%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 259,
+            "emplacement_disponible": 193,
+            "occupation": "57.3%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 128,
+            "emplacement_disponible": 528,
+            "occupation": "19.51%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 58,
+            "emplacement_disponible": 1142,
+            "occupation": "4.83%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 293,
+            "occupation": "10.67%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 106,
+            "emplacement_disponible": 179,
+            "occupation": "37.19%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 16,
+            "emplacement_disponible": 363,
+            "occupation": "4.22%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 80,
+            "emplacement_disponible": 159,
+            "occupation": "33.47%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 53,
+            "emplacement_disponible": 562,
+            "occupation": "8.62%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 93,
+            "emplacement_disponible": 167,
+            "occupation": "35.77%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 322,
+            "emplacement_disponible": 118,
+            "occupation": "73.18%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "04/01/2026 23:00:14",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3661,
+            "emplacement_disponible": 8330,
+            "occupation": "30.53%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 86,
+            "emplacement_disponible": 153,
+            "occupation": "35.98%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 225,
+            "emplacement_disponible": 439,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 128,
+            "emplacement_disponible": 352,
+            "occupation": "26.67%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 91,
+            "emplacement_disponible": 500,
+            "occupation": "15.4%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 41,
+            "emplacement_disponible": 579,
+            "occupation": "6.61%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 252,
+            "emplacement_disponible": 200,
+            "occupation": "55.75%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 116,
+            "emplacement_disponible": 540,
+            "occupation": "17.68%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 49,
+            "emplacement_disponible": 1151,
+            "occupation": "4.08%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 293,
+            "occupation": "10.67%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 106,
+            "emplacement_disponible": 179,
+            "occupation": "37.19%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 17,
+            "emplacement_disponible": 362,
+            "occupation": "4.49%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 158,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 48,
+            "emplacement_disponible": 567,
+            "occupation": "7.8%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 94,
+            "emplacement_disponible": 166,
+            "occupation": "36.15%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 319,
+            "emplacement_disponible": 121,
+            "occupation": "72.5%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 00:00:22",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3604,
+            "emplacement_disponible": 8387,
+            "occupation": "30.06%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 86,
+            "emplacement_disponible": 153,
+            "occupation": "35.98%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 223,
+            "emplacement_disponible": 441,
+            "occupation": "33.58%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 126,
+            "emplacement_disponible": 354,
+            "occupation": "26.25%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 92,
+            "emplacement_disponible": 499,
+            "occupation": "15.57%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 34,
+            "emplacement_disponible": 586,
+            "occupation": "5.48%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 251,
+            "emplacement_disponible": 201,
+            "occupation": "55.53%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 118,
+            "emplacement_disponible": 538,
+            "occupation": "17.99%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 1157,
+            "occupation": "3.58%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 293,
+            "occupation": "10.67%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 104,
+            "emplacement_disponible": 181,
+            "occupation": "36.49%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 17,
+            "emplacement_disponible": 362,
+            "occupation": "4.49%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 158,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 49,
+            "emplacement_disponible": 566,
+            "occupation": "7.97%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 94,
+            "emplacement_disponible": 166,
+            "occupation": "36.15%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 318,
+            "emplacement_disponible": 122,
+            "occupation": "72.27%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 01:00:25",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3587,
+            "emplacement_disponible": 8404,
+            "occupation": "29.91%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 86,
+            "emplacement_disponible": 153,
+            "occupation": "35.98%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 218,
+            "emplacement_disponible": 446,
+            "occupation": "32.83%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 126,
+            "emplacement_disponible": 354,
+            "occupation": "26.25%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 92,
+            "emplacement_disponible": 499,
+            "occupation": "15.57%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 29,
+            "emplacement_disponible": 591,
+            "occupation": "4.68%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 251,
+            "emplacement_disponible": 201,
+            "occupation": "55.53%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 119,
+            "emplacement_disponible": 537,
+            "occupation": "18.14%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 38,
+            "emplacement_disponible": 1162,
+            "occupation": "3.17%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 293,
+            "occupation": "10.67%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 105,
+            "emplacement_disponible": 180,
+            "occupation": "36.84%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 17,
+            "emplacement_disponible": 362,
+            "occupation": "4.49%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 80,
+            "emplacement_disponible": 159,
+            "occupation": "33.47%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 49,
+            "emplacement_disponible": 566,
+            "occupation": "7.97%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 94,
+            "emplacement_disponible": 166,
+            "occupation": "36.15%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 316,
+            "emplacement_disponible": 124,
+            "occupation": "71.82%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 02:00:27",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3571,
+            "emplacement_disponible": 8420,
+            "occupation": "29.78%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 86,
+            "emplacement_disponible": 153,
+            "occupation": "35.98%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 218,
+            "emplacement_disponible": 446,
+            "occupation": "32.83%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 126,
+            "emplacement_disponible": 354,
+            "occupation": "26.25%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 92,
+            "emplacement_disponible": 499,
+            "occupation": "15.57%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 25,
+            "emplacement_disponible": 595,
+            "occupation": "4.03%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 251,
+            "emplacement_disponible": 201,
+            "occupation": "55.53%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 120,
+            "emplacement_disponible": 536,
+            "occupation": "18.29%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 38,
+            "emplacement_disponible": 1162,
+            "occupation": "3.17%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 293,
+            "occupation": "10.67%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 104,
+            "emplacement_disponible": 181,
+            "occupation": "36.49%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 17,
+            "emplacement_disponible": 362,
+            "occupation": "4.49%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 80,
+            "emplacement_disponible": 159,
+            "occupation": "33.47%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 49,
+            "emplacement_disponible": 566,
+            "occupation": "7.97%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 94,
+            "emplacement_disponible": 166,
+            "occupation": "36.15%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 316,
+            "emplacement_disponible": 124,
+            "occupation": "71.82%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 03:00:29",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3567,
+            "emplacement_disponible": 8424,
+            "occupation": "29.75%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 86,
+            "emplacement_disponible": 153,
+            "occupation": "35.98%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 221,
+            "emplacement_disponible": 443,
+            "occupation": "33.28%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 128,
+            "emplacement_disponible": 352,
+            "occupation": "26.67%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 93,
+            "emplacement_disponible": 498,
+            "occupation": "15.74%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 26,
+            "emplacement_disponible": 594,
+            "occupation": "4.19%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 250,
+            "emplacement_disponible": 202,
+            "occupation": "55.31%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 120,
+            "emplacement_disponible": 536,
+            "occupation": "18.29%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 38,
+            "emplacement_disponible": 1162,
+            "occupation": "3.17%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 293,
+            "occupation": "10.67%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 107,
+            "emplacement_disponible": 178,
+            "occupation": "37.54%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 17,
+            "emplacement_disponible": 362,
+            "occupation": "4.49%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 80,
+            "emplacement_disponible": 159,
+            "occupation": "33.47%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 49,
+            "emplacement_disponible": 566,
+            "occupation": "7.97%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 44,
+            "emplacement_disponible": 20,
+            "occupation": "68.75%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 94,
+            "emplacement_disponible": 166,
+            "occupation": "36.15%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 315,
+            "emplacement_disponible": 125,
+            "occupation": "71.59%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 04:00:30",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3575,
+            "emplacement_disponible": 8416,
+            "occupation": "29.81%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 87,
+            "emplacement_disponible": 152,
+            "occupation": "36.4%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 221,
+            "emplacement_disponible": 443,
+            "occupation": "33.28%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 130,
+            "emplacement_disponible": 350,
+            "occupation": "27.08%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 92,
+            "emplacement_disponible": 499,
+            "occupation": "15.57%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 26,
+            "emplacement_disponible": 594,
+            "occupation": "4.19%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 250,
+            "emplacement_disponible": 202,
+            "occupation": "55.31%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 123,
+            "emplacement_disponible": 533,
+            "occupation": "18.75%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 39,
+            "emplacement_disponible": 1161,
+            "occupation": "3.25%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 36,
+            "emplacement_disponible": 292,
+            "occupation": "10.98%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 109,
+            "emplacement_disponible": 176,
+            "occupation": "38.25%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 16,
+            "emplacement_disponible": 363,
+            "occupation": "4.22%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 80,
+            "emplacement_disponible": 159,
+            "occupation": "33.47%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 49,
+            "emplacement_disponible": 566,
+            "occupation": "7.97%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 21,
+            "occupation": "67.19%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 93,
+            "emplacement_disponible": 167,
+            "occupation": "35.77%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 315,
+            "emplacement_disponible": 125,
+            "occupation": "71.59%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 05:00:32",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3581,
+            "emplacement_disponible": 8410,
+            "occupation": "29.86%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 86,
+            "emplacement_disponible": 153,
+            "occupation": "35.98%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 221,
+            "emplacement_disponible": 443,
+            "occupation": "33.28%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 132,
+            "emplacement_disponible": 348,
+            "occupation": "27.5%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 94,
+            "emplacement_disponible": 497,
+            "occupation": "15.91%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 26,
+            "emplacement_disponible": 594,
+            "occupation": "4.19%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 248,
+            "emplacement_disponible": 204,
+            "occupation": "54.87%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 174,
+            "emplacement_disponible": 482,
+            "occupation": "26.52%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 41,
+            "emplacement_disponible": 1159,
+            "occupation": "3.42%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 3,
+            "emplacement_disponible": 397,
+            "occupation": "0.75%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 41,
+            "emplacement_disponible": 287,
+            "occupation": "12.5%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 113,
+            "emplacement_disponible": 172,
+            "occupation": "39.65%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 17,
+            "emplacement_disponible": 362,
+            "occupation": "4.49%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 43,
+            "emplacement_disponible": 242,
+            "occupation": "15.09%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 81,
+            "emplacement_disponible": 158,
+            "occupation": "33.89%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 53,
+            "emplacement_disponible": 562,
+            "occupation": "8.62%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 42,
+            "emplacement_disponible": 22,
+            "occupation": "65.62%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 91,
+            "emplacement_disponible": 169,
+            "occupation": "35.0%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 315,
+            "emplacement_disponible": 125,
+            "occupation": "71.59%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 06:00:34",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3647,
+            "emplacement_disponible": 8344,
+            "occupation": "30.41%"
+        }
+    },
+    {
+        "id": "Antigone",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 93,
+            "emplacement_disponible": 146,
+            "occupation": "38.91%"
+        }
+    },
+    {
+        "id": "Comedie",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 664,
+            "emplacement_occupe": 222,
+            "emplacement_disponible": 442,
+            "occupation": "33.43%"
+        }
+    },
+    {
+        "id": "Corum",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 480,
+            "emplacement_occupe": 141,
+            "emplacement_disponible": 339,
+            "occupation": "29.38%"
+        }
+    },
+    {
+        "id": "Europa",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 591,
+            "emplacement_occupe": 97,
+            "emplacement_disponible": 494,
+            "occupation": "16.41%"
+        }
+    },
+    {
+        "id": "Foch",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 620,
+            "emplacement_occupe": 24,
+            "emplacement_disponible": 596,
+            "occupation": "3.87%"
+        }
+    },
+    {
+        "id": "Gambetta",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 452,
+            "emplacement_occupe": 246,
+            "emplacement_disponible": 206,
+            "occupation": "54.42%"
+        }
+    },
+    {
+        "id": "Gare",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 656,
+            "emplacement_occupe": 197,
+            "emplacement_disponible": 459,
+            "occupation": "30.03%"
+        }
+    },
+    {
+        "id": "Triangle",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 434,
+            "emplacement_occupe": 160,
+            "emplacement_disponible": 274,
+            "occupation": "36.87%"
+        }
+    },
+    {
+        "id": "Pitot",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 590,
+            "emplacement_occupe": 187,
+            "emplacement_disponible": 403,
+            "occupation": "31.69%"
+        }
+    },
+    {
+        "id": "Circe",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 1200,
+            "emplacement_occupe": 54,
+            "emplacement_disponible": 1146,
+            "occupation": "4.5%"
+        }
+    },
+    {
+        "id": "Garcia Lorca",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 400,
+            "emplacement_occupe": 8,
+            "emplacement_disponible": 392,
+            "occupation": "2.0%"
+        }
+    },
+    {
+        "id": "Mosson",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 328,
+            "emplacement_occupe": 67,
+            "emplacement_disponible": 261,
+            "occupation": "20.43%"
+        }
+    },
+    {
+        "id": "Sabines",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 120,
+            "emplacement_disponible": 165,
+            "occupation": "42.11%"
+        }
+    },
+    {
+        "id": "Sablassou",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 379,
+            "emplacement_occupe": 24,
+            "emplacement_disponible": 355,
+            "occupation": "6.33%"
+        }
+    },
+    {
+        "id": "Saint Jean Le Sec",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 285,
+            "emplacement_occupe": 50,
+            "emplacement_disponible": 235,
+            "occupation": "17.54%"
+        }
+    },
+    {
+        "id": "Euromedecine",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 239,
+            "emplacement_occupe": 82,
+            "emplacement_disponible": 157,
+            "occupation": "34.31%"
+        }
+    },
+    {
+        "id": "Occitanie",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 615,
+            "emplacement_occupe": 64,
+            "emplacement_disponible": 551,
+            "occupation": "10.41%"
+        }
+    },
+    {
+        "id": "Vicarello",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 64,
+            "emplacement_occupe": 42,
+            "emplacement_disponible": 22,
+            "occupation": "65.62%"
+        }
+    },
+    {
+        "id": "Gaumont EST",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 109,
+            "emplacement_occupe": 35,
+            "emplacement_disponible": 74,
+            "occupation": "32.11%"
+        }
+    },
+    {
+        "id": "Gaumont OUEST",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 250,
+            "emplacement_occupe": 245,
+            "emplacement_disponible": 5,
+            "occupation": "98.0%"
+        }
+    },
+    {
+        "id": "Charles de Gaulle",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 260,
+            "emplacement_occupe": 89,
+            "emplacement_disponible": 171,
+            "occupation": "34.23%"
+        }
+    },
+    {
+        "id": "Polygone",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 1911,
+            "emplacement_occupe": 898,
+            "emplacement_disponible": 1013,
+            "occupation": "46.99%"
+        }
+    },
+    {
+        "id": "Arc de Triomphe",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 440,
+            "emplacement_occupe": 314,
+            "emplacement_disponible": 126,
+            "occupation": "71.36%"
+        }
+    },
+    {
+        "id": "Gaumont-Circe",
+        "status": "Open",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 500,
+            "emplacement_occupe": 301,
+            "emplacement_disponible": 199,
+            "occupation": "60.2%"
+        }
+    },
+    {
+        "type": "Montpellier",
+        "temps": "05/01/2026 07:00:35",
+        "place": {
+            "emplacement_total": 11991,
+            "emplacement_occupe": 3760,
+            "emplacement_disponible": 8231,
+            "occupation": "31.36%"
+        }
     }
 ]
