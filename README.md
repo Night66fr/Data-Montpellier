@@ -11,7 +11,7 @@ Installer le fichier requirement.txt a l'aide de la commande :
 "mettre la commande"
 
 ### Installation
-####Cloner d'abord le projet avec cette commande dans votre terminal :
+Cloner d'abord le projet avec cette commande dans votre terminal :
 ```bash
 git clone (https://github.com/Night66fr/Public-sae.git)
 ```
