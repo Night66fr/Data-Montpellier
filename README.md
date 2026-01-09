@@ -2,17 +2,16 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-### Pré-requis
-
-Ce qu'il est requis pour commencer avec votre projet
-
-Installer le fichier requirement.txt a l'aide de la commande :
-
-"mettre la commande"
-
 ### Installation
-
-""
+Cloner d'abord le projet avec cette commande dans votre terminal :
+```bash
+git clone https://github.com/Night66fr/Public-sae.git
+```
+Puis installer les dépendances :
+Oublier pas de vérifier que vous êtes dans le bon dossier que vous venez de créer dans le terminal
+```bash
+pip install -r requirements.txt
+```
 
 ## Fabriqué avec
 
