@@ -199,7 +199,7 @@ function openCorrelationModal() {
 
         scores.sort((a, b) => Math.abs(b.r) - Math.abs(a.r));
 
-        let html = '<table class="corr-table"><tr><th>Rang</th><th>Parking</th><th>Vélo</th><th>Pearson</th></tr>';
+        let html = '<table class="corr-table"><tr><th>Rang</th><th>Parking</th><th>Vélo</th><th>Corrélation</th></tr>';
         scores.slice(0, 30).forEach((s, i) => {
             html += `<tr><td>#${i+1}</td><td>${s.p}</td><td>${s.v}</td><td><span class="score-badge">${s.r.toFixed(3)}</span></td></tr>`;
         });
