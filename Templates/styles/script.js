@@ -91,8 +91,8 @@ const clean = (v) => typeof v === 'string' ? parseFloat(v.replace('%', '')) : pa
 async function loadData() {
     try {
         const [resP, resV] = await Promise.all([
-            fetch('../../Data-processing/Donnée_SAE_Parking'),
-            fetch('../../Data-processing/Donnée_SAE_velo')
+            fetch('./Donnée_SAE_Parking'),
+            fetch('./Donnée_SAE_velo')
         ]);
         const dataP = await resP.json();
         const dataV = await resV.json();
